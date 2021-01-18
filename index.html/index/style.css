@@ -1,0 +1,26 @@
+.head-banner{
+	background-color: black;
+	padding-top: 8rem;
+	padding-top: 8rem;
+	background-image:url("https://cdn.wallpapersafari.com/48/25/gHOYMU.jpg");
+}
+ 
+.bi{
+	font-size: 60px;
+} 
+
+.sezione-immagini .immagine{
+	min-height:30rem;
+} 
+
+.navbar{
+	background-color: black;
+}
+
+ @media screen and (min-width: 768px){
+ 	.head-banner{
+ 		padding-top: 12rem;
+ 		padding-bottom: 12rem;
+
+ 	}
+ }
